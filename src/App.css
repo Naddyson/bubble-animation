@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.employers {
+  float: left;
+  text-align: center;
+  margin-left: 10px;
+}
+.projects {
+  float: right;
+  text-align: center;
+  margin-right: 10px;
+}
+.employer {
+  width: 300px;
+  height: 50px;
+  border: 2px solid black;
+  border-radius: 5px;
+  margin-bottom: 5px;
+
+}
+.project {
+  width: 500px;
+  height: 50px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-bottom: 5px;
+
+}
